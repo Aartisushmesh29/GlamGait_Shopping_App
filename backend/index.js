@@ -14,7 +14,6 @@ app.use(cors());
 // app.use(
 //   cors({
 //     origin: [
-//       "http://localhost:5174",
 //       "https://glamgait-admin.vercel.app",
 //       "https://glamgait-shopping.vercel.app",
 //     ],
